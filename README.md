@@ -43,6 +43,12 @@ I deployed the services to AWS ECS with RDS, ElastiCache, and MSK, automated ima
 
 **Stack:** Java · Spring Boot · Kafka · MySQL · Redis · Docker · AWS
 
+### [Stock Headline Analysis](https://github.com/22pilarskil/StockHeadlineAnalysis)
+
+A team coursework project exploring stock movement classification using news headlines and numerical market data. The project includes BERT, attention mechanisms, and Transformer models.
+
+**Stack:** Python · PyTorch · TensorFlow · Transformers · Pandas · scikit-learn
+
 ### [Shopping Cart Application](https://github.com/aw520/shopping-cart-application)
 
 A React application for browsing products and managing a shopping cart. It includes quantity controls, live totals, and pagination that preserves page position in the URL.
