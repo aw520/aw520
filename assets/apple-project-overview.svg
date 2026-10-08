@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="670" viewBox="0 0 1200 670">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#65748e"/></marker></defs>
+<rect width="1200" height="670" rx="22" fill="#f5f7fc"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="44" y="52" font-size="14" fill="#526684" letter-spacing="2">FEATURED INTERNSHIP PROJECT · APPLE · SUMMER 2026</text>
+<text x="44" y="96" font-size="32" font-weight="700" fill="#182542">Conversational AI for cloud operations</text>
+<text x="44" y="128" font-size="16" fill="#526684">Conceptual overview based on my work. This is not an internal architecture diagram.</text>
+<g fill="white" stroke="#d7dfed" stroke-width="1.5">
+<rect x="44" y="182" width="230" height="194" rx="15"/>
+<rect x="336" y="182" width="344" height="194" rx="15"/>
+<rect x="750" y="182" width="406" height="84" rx="15"/>
+<rect x="750" y="292" width="406" height="84" rx="15"/>
+</g>
+<g fill="#83e9d2"><rect x="44" y="182" width="230" height="6" rx="3"/><rect x="336" y="182" width="344" height="6" rx="3"/></g>
+<g fill="#b5a4ff"><rect x="750" y="182" width="406" height="6" rx="3"/><rect x="750" y="292" width="406" height="6" rx="3"/></g>
+<g fill="none" stroke="#65748e" stroke-width="2" marker-end="url(#arrow)">
+<path d="M274 276H330"/><path d="M680 246H712V225H744"/><path d="M680 313H712V335H744"/></g>
+<g fill="#182542" font-weight="700" font-size="21">
+<text x="65" y="227">Product experience</text><text x="357" y="227">Agent orchestration</text><text x="773" y="216">Shared LLM gateway</text><text x="773" y="326">MCP tools and agent skills</text></g>
+<g fill="#526684" font-size="17">
+<text x="65" y="264">React + TypeScript</text><text x="65" y="298">SSE streaming</text><text x="65" y="332">Tool traces and charts</text>
+<text x="357" y="264">Bounded tool execution</text><text x="357" y="298">Token budgets and summaries</text><text x="357" y="332">Freshness aware tool history</text>
+<text x="773" y="246">Claude / Gemini · auth · telemetry</text><text x="773" y="356">Catalog summaries · progressive loading</text></g>
+<rect x="44" y="412" width="1112" height="47" rx="11" fill="#e8edf7"/>
+<text x="65" y="442" font-size="16" fill="#425471">Engineering focus: reliable tool calling, controlled execution, reusable integrations, and traceable evidence.</text>
+<rect x="44" y="495" width="537" height="119" rx="16" fill="#182542"/><rect x="603" y="495" width="553" height="119" rx="16" fill="#182542"/>
+<text x="69" y="535" font-size="15" fill="#b9c5dc">TYPICAL SRE TROUBLESHOOTING</text><text x="69" y="581" font-size="35" font-weight="700" fill="#83e9d2">20+ min → ~5 min</text>
+<text x="628" y="535" font-size="15" fill="#b9c5dc">INITIAL ROUTING CONTEXT</text><text x="628" y="581" font-size="35" font-weight="700" fill="#b5a4ff">90K → 2.5K tokens</text>
+<text x="44" y="647" font-size="13" fill="#65748e">Results describe the internship project. Source code is not publicly available.</text></g></svg>
