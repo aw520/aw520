@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#253059"/></linearGradient><linearGradient id="accent"><stop stop-color="#83e9d2"/><stop offset="1" stop-color="#b5a4ff"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<circle cx="1100" cy="50" r="190" fill="#b5a4ff" opacity=".06"/><circle cx="1030" cy="270" r="135" fill="#83e9d2" opacity=".06"/>
+<path d="M890 85h100v70h95v85h-95v-85h-100z" fill="none" stroke="#83e9d2" stroke-width="2" opacity=".5"/>
+<g fill="#101b32" stroke="#a99ee8" stroke-width="2"><rect x="864" y="57" width="54" height="54" rx="14"/><rect x="961" y="128" width="54" height="54" rx="14"/><rect x="1059" y="211" width="54" height="54" rx="14"/></g>
+<g fill="#83e9d2"><circle cx="891" cy="84" r="6"/><circle cx="988" cy="155" r="6"/><circle cx="1086" cy="238" r="6"/></g>
+<g font-family="Arial, Helvetica, sans-serif"><text x="60" y="63" fill="#83e9d2" font-size="15" letter-spacing="3">SOFTWARE ENGINEERING · APPLIED AI</text>
+<text x="56" y="143" fill="#f5f5fc" font-size="66" font-weight="700">Astoria Wu</text>
+<text x="60" y="191" fill="#d2d7e9" font-size="23">Backend systems. AI agents. Complete products.</text>
+<rect x="60" y="228" width="690" height="1" fill="url(#accent)" opacity=".5"/>
+<text x="60" y="265" fill="#c9cce1" font-size="17">Georgia Tech M.S. · December 2026</text><text x="450" y="265" fill="#c9cce1" font-size="17">Former SWE Intern @ Apple</text></g></svg>
